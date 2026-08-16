@@ -1,6 +1,6 @@
 # Hey, I'm Ameur 👋
 
-### Software Developer | Embedded Systems & IoT Graduate
+### Software Developer
 
 I build modern mobile and web applications with a focus on clean UI, useful features, and real-world solutions.
 
@@ -99,7 +99,7 @@ Mobile application for intercity transportation with bus information, routes, re
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ameur--chebbi-181717?style=for-the-badge\&logo=github)](https://github.com/Ameur-chebbi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chebbi-ameur-a824b6372/)
 
 ---
 
