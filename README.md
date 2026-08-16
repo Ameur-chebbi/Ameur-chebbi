@@ -79,12 +79,7 @@ Mobile application for intercity transportation with bus information, routes, re
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ameur-chebbi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameur-chebbi&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameur-chebbi&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameur-chebbi&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
