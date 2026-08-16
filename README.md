@@ -89,11 +89,6 @@ Mobile application for intercity transportation with bus information, routes, re
 
 ---
 
-## 📈 Contribution Activity
-
-![Ameur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ameur-chebbi\&theme=github-compact\&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
