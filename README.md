@@ -10,13 +10,13 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 ## 👨‍💻 About Me
 
-* 💻 Software Developer passionate about building useful digital solutions
-* 📱 Building mobile applications with **Flutter**
-* 🌐 Developing web platforms with **React & Node.js**
-* 🤖 Interested in **AI, Computer Vision & Intelligent Systems**
-* 🎓 Graduate in **Embedded Systems & IoT**
-* 🚀 Building SaaS and AI-powered projects
-* 📍 Based in Tunisia
+*  Software Developer passionate about building useful digital solutions
+*  Building mobile applications with **Flutter**
+*  Developing web platforms with **React & Node.js**
+*  Interested in **AI, Computer Vision & Intelligent Systems**
+*  Graduate in **Embedded Systems & IoT**
+*  Building SaaS and AI-powered projects
+*  Based in Tunisia
 
 ---
 
@@ -44,9 +44,9 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🤖 TabibiAI
+###  TabibiAI
 
 AI-powered medical assistant platform designed to help doctors manage patient conversations, appointments, and communication.
 
@@ -56,7 +56,7 @@ AI-powered medical assistant platform designed to help doctors manage patient co
 
 ---
 
-### 🤟 Tunisian Sign Language Recognition
+###  Tunisian Sign Language Recognition
 
 Intelligent system for recognizing Tunisian Sign Language using computer vision and deep learning.
 
@@ -66,7 +66,7 @@ Intelligent system for recognizing Tunisian Sign Language using computer vision 
 
 ---
 
-### 🚌 Transport App
+### Transport App
 
 Mobile application for intercity transportation with bus information, routes, reservations, and real-time features.
 
@@ -74,18 +74,9 @@ Mobile application for intercity transportation with bus information, routes, re
 
 [View Project](https://github.com/Ameur-chebbi/TransportApp-v2)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameur-chebbi&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ameur--chebbi-181717?style=for-the-badge\&logo=github)](https://github.com/Ameur-chebbi)
 
