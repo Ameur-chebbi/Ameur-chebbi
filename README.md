@@ -15,7 +15,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 *  Developing web platforms with **React & Node.js**
 *  Interested in **AI, Computer Vision & Intelligent Systems**
 *  Graduate in **Embedded Systems & IoT**
-*  Building SaaS and AI-powered projects
 *  Based in Tunisia
 
 ---
