@@ -77,7 +77,7 @@ Mobile application for intercity transportation with bus information, routes, re
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ameur--chebbi-181717?style=for-the-badge\&logo=github)](https://github.com/Ameur-chebbi)
+(https://img.shields.io/badge/GitHub-Ameur--chebbi-181717?style=for-the-badge\&logo=github)](https://github.com/Ameur-chebbi)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chebbi-ameur-a824b6372/)
 
