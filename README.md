@@ -7,7 +7,6 @@ I build modern mobile and web applications with a focus on clean UI, useful feat
 I enjoy transforming ideas into functional software using technologies such as **Flutter, React, Node.js, MongoDB, Firebase, Supabase, and AI**.
 
 ---
-
 ## 👨‍💻 About Me
 
 *  Software Developer passionate about building useful digital solutions
