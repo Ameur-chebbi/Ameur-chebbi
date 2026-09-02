@@ -48,7 +48,7 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 AI-powered medical assistant platform designed to help doctors manage patient conversations, appointments, and communication.
 
-**Tech:** React • Supabase • AI • JavaScript
+React • Supabase • AI • JavaScript
 
 [View Project](https://github.com/Ameur-chebbi/TabibiAI)
 
