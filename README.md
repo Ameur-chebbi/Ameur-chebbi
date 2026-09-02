@@ -58,7 +58,7 @@ React • Supabase • AI • JavaScript
 
 Intelligent system for recognizing Tunisian Sign Language using computer vision and deep learning.
 
-**Tech:** Python • Computer Vision • Deep Learning • AI
+ Python • Computer Vision • Deep Learning • AI
 
 [View Project](https://github.com/Ameur-chebbi/TSLApp)
 
