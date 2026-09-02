@@ -68,7 +68,7 @@ Intelligent system for recognizing Tunisian Sign Language using computer vision 
 
 Mobile application for intercity transportation with bus information, routes, reservations, and real-time features.
 
-**Tech:** Flutter • Dart • Firebase • Google Maps
+ Flutter • Dart • Firebase • Google Maps
 
 [View Project](https://github.com/Ameur-chebbi/TransportApp-v2)
 
