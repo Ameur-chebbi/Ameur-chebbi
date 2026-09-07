@@ -79,6 +79,3 @@ Mobile application for intercity transportation with bus information, routes, re
 
 ---
 
-<p align="center">
-  <b>Building useful products one project at a time. 🚀</b>
-</p>
