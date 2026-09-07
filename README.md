@@ -77,5 +77,4 @@ Mobile application for intercity transportation with bus information, routes, re
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chebbi-ameur-a824b6372/)
 
----
 
