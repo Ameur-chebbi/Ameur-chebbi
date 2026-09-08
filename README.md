@@ -75,6 +75,5 @@ Mobile application for intercity transportation with bus information, routes, re
 
 
 ## Connect With Me
-[![LinkedIn]
 
 
