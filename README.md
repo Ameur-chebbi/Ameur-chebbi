@@ -70,7 +70,7 @@ Mobile application for intercity transportation with bus information, routes, re
 
  Flutter • Dart • Firebase • Google Maps
 
-[View Project](https://github.com/Ameur-chebbi/TransportApp-v2)
+
 
 
 
