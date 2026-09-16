@@ -66,9 +66,6 @@ Intelligent system for recognizing Tunisian Sign Language using computer vision 
 
 ### Transport App
 
-Mobile application for intercity transportation with bus information, routes, reservations, and real-time features.
-
- Flutter •
 
 
 
