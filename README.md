@@ -1,4 +1,4 @@
-# Hey, I'm Ameur 👋
+# Hey, I'm Ameur 
 
 ### Software Developer
 
