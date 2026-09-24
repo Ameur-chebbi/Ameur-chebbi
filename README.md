@@ -60,8 +60,6 @@ Intelligent system for recognizing Tunisian Sign Language using computer vision 
 
  Python • Computer Vision • Deep Learning • AI
 
-[View
-
 
 
 
