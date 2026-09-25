@@ -56,7 +56,7 @@ React • Supabase • AI • JavaScript
 
 ###  Tunisian Sign Language Recognition
 
-Intelligent system for recognizing Tunisian Sign Language using computer vision and deep learning.
+Intelligent system for recognizing 
 
 
 
