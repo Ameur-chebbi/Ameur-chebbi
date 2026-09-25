@@ -54,8 +54,6 @@ React • Supabase • AI • JavaScript
 
 ---
 
-###  Tunisian Sign Language Recognition
-
 
 
 
