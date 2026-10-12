@@ -50,9 +50,7 @@ AI-powered medical assistant platform designed to help doctors manage patient co
 
 React • Supabase • AI • JavaScript
 
-[View Project](https://github.com/Ameur-chebbi/TabibiAI)
-
--
+[View Project]
 
 
 
