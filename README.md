@@ -52,7 +52,7 @@ React • Supabase • AI • JavaScript
 
 [View Project](https://github.com/Ameur-chebbi/TabibiAI)
 
----
+-
 
 
 
