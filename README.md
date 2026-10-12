@@ -48,10 +48,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 AI-powered medical assistant platform designed to help doctors manage patient conversations, appointments, and communication.
 
-React • Supabase • AI • JavaScript
-
-[View Project]
-
 
 
 
