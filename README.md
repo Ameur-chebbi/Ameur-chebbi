@@ -40,10 +40,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge\&logo=github\&logoColor=white)
 
----
-
-#  Featured Projects
-
 
 
 
