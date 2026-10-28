@@ -44,8 +44,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 #  Featured Projects
 
-AI-powered medical assistant platform designed to help doctors manage patient conversations, appointments, and communication.
-
 
 
 
