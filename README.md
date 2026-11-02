@@ -36,7 +36,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 
 ### AI & Tools
 
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge\&logo=python\&logoColor=3776AB)
 
 
 
