@@ -34,7 +34,6 @@ I enjoy transforming ideas into functional software using technologies such as *
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
 
-### AI & Tools
 
 
 
